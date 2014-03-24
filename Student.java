@@ -1,4 +1,4 @@
-public class Student<k> implements IDinterface {
+public class Student<k> implements IDinterface<k> {
 
 	String name;
 	k gtID;
